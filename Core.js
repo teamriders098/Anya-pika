@@ -1423,7 +1423,7 @@ const ftroli = {
 
 
     const menulist = `
-    Konichiwa ${pushname} dear 👋. I am ${global.BotName}, a bot developed by: Pika to take your WhatsApp usage into next level.
+    Konichiwa ${pushname} dear 👋. I am ${global.BotName}, a bot developed by: Goransh to take your WhatsApp usage into next level.
         
        「 System Info 」
     
@@ -1453,7 +1453,7 @@ const ftroli = {
     
     Type *-menu* or press any button below to start using *${global.BotName}*
     
-    ©️ *${global.BotName}* All Rights Reserved by: *Pika❤️*
+    ©️ *${global.BotName}* All Rights Reserved by: *Goransh❤️*
     `
         const qtod = m.quoted? "true":"false"
         
